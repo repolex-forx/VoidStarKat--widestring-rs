@@ -1,0 +1,11 @@
+{
+  "org": "VoidStarKat",
+  "repo": "widestring-rs",
+  "versions": [
+    {
+      "commit": "66dcd7c05ed7de790a1ab0d340b7f4b8b550aed7",
+      "tag": "v1.2.1",
+      "parsed_at": "2026-11-23T00:01:38.726179+00:00"
+    }
+  ]
+}
